@@ -1,0 +1,5 @@
+<?php
+
+$acc = '';
+echo $acc;
+?>
